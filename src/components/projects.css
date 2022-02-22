@@ -1,0 +1,45 @@
+
+  
+  .project {
+    background:#fff;
+    height: 200px;
+    text-align: center;
+  }
+  .project p {
+      text-align: center;
+      font-family: "Cambria, Cochin, Georgia, Times, 'Times New Roman', serif";
+      font-size: 1.2rem;
+      text-transform: uppercase;
+  }
+
+  .project h1{
+      text-align: center;
+      padding: 1rem;
+      padding-top: 2rem;
+  }
+  
+  .other {
+    background: #81a5d4;
+  }
+  
+  .p {
+    text-align: center;
+    padding-top: 120px;
+  }
+  
+  .p a {
+    text-decoration: underline;
+    color: blue;
+  }
+
+  .divider{
+    border-bottom: 4px solid rgb(37, 56, 224);
+    width:120px;
+    display: block;
+    line-height:1.6em;
+    position: relative;
+    background: black;
+    margin: 30px auto;
+    color: black;
+    
+  }

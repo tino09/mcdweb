@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+.team h2::after {
+    content: '';
+    background: #303ef7;
+    width: 100px;
+    height: 5px;
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .team h2{
+      text-align: center;
+  }
+
+  .divider{
+    border-bottom: 4px solid black;
+    width:120px;
+    display: block;
+    line-height:1.6em;
+    position: relative;
+    background: black;
+    margin: 30px auto;
+    color: black;
+    
+  }
+
+ 
+  
