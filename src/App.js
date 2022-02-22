@@ -19,12 +19,13 @@ function App() {
       <Header />
       <Waver/>
       <Hero />
+      <Team />
       <Services />
       <Mission/> 
       <Clients/>
       <Swipershow/>
       <Projects />
-      <Team />
+  
       <Contact />
       <Cta/>
       <Footer />

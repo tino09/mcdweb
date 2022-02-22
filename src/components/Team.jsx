@@ -6,7 +6,7 @@ const Team = () => {
     <div id="#About">
     <div className="container" style={{paddingTop:"20px", border:"2px black"}}>
         <div className="row">
-        <h2 style={{textAlign:"center", paddingTop:"20px", fontFamily:"verdana"}}>About Us</h2>
+        <h2 style={{textAlign:"center", paddingTop:"20px", fontFamily:"Tangerine"}}><u>About Us</u></h2>
             <div className="col-md-6">
                 
                 <h2>We are</h2>
