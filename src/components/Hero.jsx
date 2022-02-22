@@ -9,7 +9,7 @@ import Carousel from "react-bootstrap/Carousel";
 
 const Hero = () => {
   return (
-    <div className="App" id="Boards">
+    <div className="App" id="Home">
 
     <Carousel>
       <Carousel.Item>
@@ -20,7 +20,7 @@ const Hero = () => {
           height="550px"
         />
         <Carousel.Caption>
-          <h2 style={{marginBottom:"15px", marginRight:"600px", fontFamily:"lusida", fontSize:"3.5rem", backgroundColor:"black", opacity:"0.7"}}>Bonny Camp</h2>
+          <h2 style={{marginBottom:"0px", marginRight:"600px", fontFamily:"lusida", fontSize:"2.5rem", backgroundColor:"black", opacity:"0.7"}}>Ahmadu Bello way, Victoria Island</h2>
           <a href="https://goo.gl/maps/3d3MvFECFG8G2NUz9" target="_blank" rel="noreferrer" style={{fontSize:20}}>Click for map location</a>
         </Carousel.Caption>
       </Carousel.Item>
@@ -33,7 +33,7 @@ const Hero = () => {
         />
 
         <Carousel.Caption>
-          <h2 style={{marginBottom:"15px", marginRight:"600px", fontFamily:"lusida", fontSize:"3.5rem", backgroundColor:"black", opacity:"0.7"}}>Mobolaji Bank Anthony Way</h2>
+          <h2 style={{marginBottom:"0px", marginRight:"600px", fontFamily:"lusida", fontSize:"2.5rem", backgroundColor:"black", opacity:"0.7"}}>Mobolaji Bank Anthony Way</h2>
           <a href="https://goo.gl/maps/3d3MvFECFG8G2NUz9" target="_blank" rel="noreferrer" style={{fontSize:20}}>Click to location</a>
         </Carousel.Caption>
         
@@ -47,7 +47,7 @@ const Hero = () => {
         />
 
         <Carousel.Caption>
-          <h2 style={{marginBottom:"15px", marginRight:"600px", fontFamily:"lusida", fontSize:"3.5rem", backgroundColor:"black", opacity:"0.7"}}>Herbert Macaulay Way</h2>
+          <h2 style={{marginBottom:"0px", marginRight:"600px", fontFamily:"lusida", fontSize:"2.5rem", backgroundColor:"black", opacity:"0.7"}}>Herbert Macaulay Way, Yaba</h2>
           <a href="https://goo.gl/maps/3d3MvFECFG8G2NUz9" target="_blank" rel="noreferrer" style={{fontSize:20}}>Click to location</a>
         </Carousel.Caption>
       </Carousel.Item>
@@ -60,7 +60,7 @@ const Hero = () => {
         />
 
         <Carousel.Caption>
-          <h2 style={{marginBottom:"15px", marginRight:"600px", fontFamily:"lusida", fontSize:"3.5rem", backgroundColor:"black", opacity:"0.7"}}>Beesam Airport Road</h2>
+          <h2 style={{marginBottom:"0px", marginRight:"200px", fontFamily:"lusida", fontSize:"2.5rem", backgroundColor:"black", opacity:"0.7"}}>Airport Link Road, Beesam Bus stop Ikeja</h2>
           <a href="https://goo.gl/maps/3d3MvFECFG8G2NUz9" target="_blank"  rel="noreferrer" style={{fontSize:20}}>Click to location</a>
         </Carousel.Caption>
       </Carousel.Item>

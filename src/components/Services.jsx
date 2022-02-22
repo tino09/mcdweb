@@ -5,8 +5,9 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const Services = () => {
   return (
+    <div className="anchor" id="Services">
     <div className="containe">
-        <div class=" container">
+        <div class=" container" >
       <h1> LED ADVERTISING</h1>
       <div class="ro row">
         <div class="service col-sm-3">
@@ -54,6 +55,7 @@ const Services = () => {
         </div>
         
       </div>
+    </div>
     </div>
     </div>
   )

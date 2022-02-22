@@ -5,7 +5,7 @@ import Footer from '../src/components/Footer'
 import Contact from './components/Contact'
 import Clients from './components/Clients'
 import Swipershow from './components/Swipershow'
-import Team from './components/Team'
+import About from './components/About'
 import Cta from './components/Cta'
 import Waver from './components/Waver'
 import Services from './components/Services'
@@ -19,7 +19,7 @@ function App() {
       <Header />
       <Waver/>
       <Hero />
-      <Team />
+      <About />
       <Services />
       <Mission/> 
       <Clients/>

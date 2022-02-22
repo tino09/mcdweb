@@ -1,9 +1,10 @@
 import React from 'react'
 import team from '../img/about-us.jpeg'
+import '../components/About.css'
 
-const Team = () => {
+const About = () => {
   return (
-    <div id="#About">
+    <div className="About" id="About">
     <div className="container" style={{paddingTop:"20px", border:"2px black"}}>
         <div className="row">
         <h2 style={{textAlign:"center", paddingTop:"20px", fontFamily:"Tangerine"}}><u>About Us</u></h2>
@@ -35,4 +36,4 @@ We aspire to be the leading player within our category through sustained innovat
   )
 }
 
-export default Team
+export default About

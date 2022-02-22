@@ -7,7 +7,6 @@
 
 .containe h1 {
     text-align: center;
-    padding-top: 10px;
     margin-bottom: 60px;
     font-weight: 600;
     position: relative;
@@ -33,7 +32,6 @@
   
   .service {
     text-align: center;
-    padding: 25px 10px;
     border-radius: 5px;
     font-size: 14px;
     cursor: pointer;
@@ -64,3 +62,9 @@
     color: #fff;
   }
   
+  .anchor:target:before {
+    content:"";
+    display:block;
+    height:90px; /* fixed header height*/
+    margin:-90px 0 0; /* negative fixed header height */
+}
