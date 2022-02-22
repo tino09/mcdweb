@@ -10,6 +10,7 @@ import Cta from './components/Cta'
 import Waver from './components/Waver'
 import Services from './components/Services'
 import Projects from './components/Projects'
+import Team from './components/Team'
 
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
       <Clients/>
       <Swipershow/>
       <Projects />
-  
+      <Team />
       <Contact />
       <Cta/>
       <Footer />
