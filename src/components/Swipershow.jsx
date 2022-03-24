@@ -4,9 +4,9 @@ import './Swipershow.css'
 const Swipershow = () => {
   return (
       <div className="slide-container">
+          <h1 style={{color:"black", fontFamily:"montserrat"}}>Brands we Serve</h1>
     <div className="slider">
         <div className="slide-track">
-            
             <div className="flide">
                 <img src="https://seeklogo.com/images/G/Guinness-logo-BFBFD46C5F-seeklogo.com.png" alt="Guinness" />
             </div>
